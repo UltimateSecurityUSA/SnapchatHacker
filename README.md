@@ -1,7 +1,7 @@
 # SnapchatHacker
 This tool is designed to hack a snapchat account using their API. 
 
-This is tool is availanlbe in an advanced capacity! `@DiscoverBrian` TG
+This is tool is availanlbe in an advanced capacity! `@BrianDiscovery5553` TG
 
 FOR WINDOWS
 
